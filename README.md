@@ -16,6 +16,5 @@ P: p-polarized light
 
 Please see the sample notebook to understand how the training data is created.
 It assumed a wide range of complex refractive index values for the 2D material which is 0.7 nm thick.
-n = [0.1:0.1:5]
+n = [0.1:0.1:6]
 k = [0:0.1:5]
-which is big enough for MoS2.
