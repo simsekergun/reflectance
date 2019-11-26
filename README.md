@@ -1,12 +1,12 @@
 # reflectance
-Reflectance from sio2/si and glass substrates with and without a 2D material on top
+Differential reflectance from sio2/si and glass substrates (with and without a 2D material on top)
 
 This folder contains several subfolders and a python notebook to run a sample case to estimate the refractive index of MoS2 at 400 nm.
 
 Subfolders named with the wavelength of the excitation (in nanometer)
 In each folder, there are 8 files.
 The ones starting with "train" are training files
-The ones starting with "test" are test files for MoS2 reflectance data
+The ones starting with "test" are test files for differential reflectance data for substrates with and without a monolayer MoS2.
 
 The filenames end with XY where X is either Gl or Si, Y is either S or P
 Gl: glass substrate
